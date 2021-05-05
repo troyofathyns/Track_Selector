@@ -1,0 +1,51 @@
+body{
+	font: Franklin Gothic;
+	font-size: 12px;
+	background-size: auto;
+	background-repeat: no-repeat;
+	background-position: center top;
+}
+h1{
+	font-size: 1.75em;
+}
+h2{
+	font-size: 1.25em;
+	margin: 0 auto;
+}
+h3{
+	color: white;
+	text-shadow:
+		-1px -1px 0 #000,
+		1px -1px 0 #000,
+		-1px 1px 0 #000,
+		1px 1px 0 #000;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+table{
+	margin: auto;
+	width: 400px;
+}
+tr{
+	background-color: #fcff68;
+}
+
+img{
+	width: 150px;
+}
+
+.winner{
+	color: green;
+}
+
+.selected{
+	opacity: .5;
+}
+
+.banned{
+	background-color: red;
+}
+
+
+/* stuff */
